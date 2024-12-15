@@ -1,0 +1,206 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 Edg/130.0.0.0" version="24.8.6">
+  <diagram name="Page-1" id="NmVQaxJL0Mp2Oc2oiaYt">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8hy48lgJdGbkzePK42XZ-25" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=40;" vertex="1" parent="1">
+          <mxGeometry x="240" y="40" width="20" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy48lgJdGbkzePK42XZ-37" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8hy48lgJdGbkzePK42XZ-25">
+          <mxGeometry x="5" y="420" width="10" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy48lgJdGbkzePK42XZ-26" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;size=40;" vertex="1" parent="1">
+          <mxGeometry x="100" y="40" width="20" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy48lgJdGbkzePK42XZ-34" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8hy48lgJdGbkzePK42XZ-26">
+          <mxGeometry x="5" y="70" width="10" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8hy48lgJdGbkzePK42XZ-26">
+          <mxGeometry x="5" y="650" width="10" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy48lgJdGbkzePK42XZ-27" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlEntity;size=40;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="40" height="900" as="geometry" />
+        </mxCell>
+        <mxCell id="8hy48lgJdGbkzePK42XZ-39" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8hy48lgJdGbkzePK42XZ-27">
+          <mxGeometry x="15" y="70" width="10" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-1" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8hy48lgJdGbkzePK42XZ-27">
+          <mxGeometry x="20" y="120" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-13" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="8hy48lgJdGbkzePK42XZ-27">
+          <mxGeometry x="20" y="350" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-3" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="210" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="40" y="272" width="460" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-9" value="Show Dashboard" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-39" target="8hy48lgJdGbkzePK42XZ-34">
+          <mxGeometry x="-0.6667" relative="1" as="geometry">
+            <mxPoint x="450" y="250" as="sourcePoint" />
+            <mxPoint x="120" y="250" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="250" />
+              <mxPoint x="230" y="250" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-10" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;[Invalid Credentials]&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="272" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-11" value="Display Login Error" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-39" target="8hy48lgJdGbkzePK42XZ-34">
+          <mxGeometry x="-0.609" relative="1" as="geometry">
+            <mxPoint x="452.5" y="310" as="sourcePoint" />
+            <mxPoint x="120" y="310.00000000000006" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="287.5" y="310" />
+              <mxPoint x="247.5" y="310" />
+              <mxPoint x="207.5" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-15" value="Confirmation of job posting" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-39" target="8hy48lgJdGbkzePK42XZ-34">
+          <mxGeometry x="-0.4848" relative="1" as="geometry">
+            <mxPoint x="370" y="450" as="sourcePoint" />
+            <mxPoint x="140" y="480" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="310" y="450" />
+              <mxPoint x="257.5" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-17" value="Display job listings" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-39" target="8hy48lgJdGbkzePK42XZ-37">
+          <mxGeometry x="0.3704" relative="1" as="geometry">
+            <mxPoint x="440" y="540" as="sourcePoint" />
+            <mxPoint x="270" y="540" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="412.5" y="540" />
+              <mxPoint x="370" y="540" />
+              <mxPoint x="340" y="540" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-18" value="Confirm job application submission" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-39" target="8hy48lgJdGbkzePK42XZ-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="620" as="sourcePoint" />
+            <mxPoint x="270" y="620" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="405" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-23" value="Notify new application for job" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-39" target="CEzBujqAGL0CPMBoP3cU-22">
+          <mxGeometry x="-0.4848" relative="1" as="geometry">
+            <mxPoint x="250" y="730" as="sourcePoint" />
+            <mxPoint x="170" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="740" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-24" value="Browse job listings" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-37" target="8hy48lgJdGbkzePK42XZ-39">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="260" y="490" as="sourcePoint" />
+            <mxPoint x="450" y="490" as="targetPoint" />
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="350" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-25" value="View applications" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="CEzBujqAGL0CPMBoP3cU-22" target="8hy48lgJdGbkzePK42XZ-39">
+          <mxGeometry x="-0.6061" width="80" relative="1" as="geometry">
+            <mxPoint x="180" y="830" as="sourcePoint" />
+            <mxPoint x="260" y="830" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="790" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-26" value="Submit application for job" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-37" target="8hy48lgJdGbkzePK42XZ-39">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="300" y="580" as="sourcePoint" />
+            <mxPoint x="380" y="580" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-27" value="Enter Credentials" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-34" target="8hy48lgJdGbkzePK42XZ-39">
+          <mxGeometry x="-0.5455" width="80" relative="1" as="geometry">
+            <mxPoint x="145" y="130" as="sourcePoint" />
+            <mxPoint x="225" y="130" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="270" y="130" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-28" value="Enter job details (title, description, etc.)" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-34" target="8hy48lgJdGbkzePK42XZ-39">
+          <mxGeometry x="-0.3636" width="80" relative="1" as="geometry">
+            <mxPoint x="220" y="350" as="sourcePoint" />
+            <mxPoint x="300" y="350" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="280" y="360" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-29" value="Display applications" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="8hy48lgJdGbkzePK42XZ-39" target="CEzBujqAGL0CPMBoP3cU-22">
+          <mxGeometry x="-0.5455" relative="1" as="geometry">
+            <mxPoint x="350" y="940" as="sourcePoint" />
+            <mxPoint x="270" y="940" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="300" y="850" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-2" value="Validate Credentials" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="140" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="455" y="150" />
+              <mxPoint x="485" y="150" />
+              <mxPoint x="485" y="170" />
+            </Array>
+            <mxPoint x="460" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-32" value="&lt;b&gt;Employer&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-33" value="&lt;b&gt;Employee&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-34" value="&lt;b&gt;JobLink System&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CEzBujqAGL0CPMBoP3cU-14" value="Save job posting" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0118" relative="1" as="geometry">
+            <mxPoint x="455" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="455" y="380" />
+              <mxPoint x="485" y="380" />
+              <mxPoint x="485" y="400" />
+            </Array>
+            <mxPoint as="offset" />
+            <mxPoint x="460" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9tz7wSwM7CxPOyYBRh2o-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;[Valid Credentials]&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="210" width="100" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
